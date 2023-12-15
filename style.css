@@ -1,0 +1,37 @@
+body{
+    background-color: antiquewhite;
+}
+
+.card{
+    border: 2px solid lightblue;
+    background-color: white;
+    color: black;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 30px;
+}
+
+.card h1{
+    font-size: 3rem;
+}
+
+.card p{
+    font-size: 1rem;
+}
+
+
+#app{
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    padding: 10px;
+
+    display: grid;
+    gap: 5px;
+    width: 100px;
+}
+
+#app button{
+
+}
